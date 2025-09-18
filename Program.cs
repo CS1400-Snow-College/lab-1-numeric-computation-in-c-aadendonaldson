@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-double a = 5;
-double b = 4;
-double c = 2;
+double a = 19;
+double b = 23;
+double c = 8;
 double d = (a + b) / c;
 Console.WriteLine(d);
