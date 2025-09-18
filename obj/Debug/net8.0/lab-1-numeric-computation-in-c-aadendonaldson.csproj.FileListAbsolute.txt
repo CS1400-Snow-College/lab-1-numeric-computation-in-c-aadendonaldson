@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\bin\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.exe
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\bin\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.deps.json
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\bin\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.runtimeconfig.json
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\bin\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\bin\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.pdb
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.AssemblyInfo.cs
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.sourcelink.json
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\refint\lab-1-numeric-computation-in-c-aadendonaldson.dll
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.pdb
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\lab-1-numeric-computation-in-c-aadendonaldson.genruntimeconfig.cache
+C:\Users\User\Desktop\my-code-dir\lab-1-numeric-computation-in-c-aadendonaldson\obj\Debug\net8.0\ref\lab-1-numeric-computation-in-c-aadendonaldson.dll
