@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-double third = 1.0 / 3.0;
-Console.WriteLine(third);
+decimal min = decimal.MinValue;
+decimal max = decimal.MaxValue;
+Console.WriteLine($"The range of the decimal type is {min} to {max}");
